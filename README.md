@@ -1,14 +1,15 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:171D3D&height=210&section=header&text=PHISGUARD-Z&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=Autonomous%20Zero-Day%20%26%20Phishing%20Interceptor&descAlignY=68&descSize=20&descColor=67E8F9" width="100%" alt="PHISGUARD-Z Banner">
+</p>
+
+<p align="center">
 
 [![VERSION](https://img.shields.io/badge/VERSION-1.0.0-00D9FF?style=flat-square)](https://github.com/TECH-SUGATA/phisguard-z)
 [![STATUS](https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square)](https://phisguard-z.onrender.com/)
 [![AI](https://img.shields.io/badge/AI-GEMINI-4285F4?style=flat-square)](https://ai.google.dev/)
 [![DEPLOYED](https://img.shields.io/badge/DEPLOYED-RENDER-46E3B7?style=flat-square)](https://phisguard-z.onrender.com/)
+[![REPOSITORY](https://img.shields.io/badge/GITHUB-PHISGUARD--Z-181717?style=flat-square&logo=github)](https://github.com/TECH-SUGATA/phisguard-z)
 
-</p>
-
-<p align="center">
-  <img src="./assets/phisguard-banner.png" width="900" alt="PHISGUARD-Z Banner">
 </p>
 
 <h1 align="center">🛡️ PHISGUARD-Z</h1>
@@ -22,6 +23,17 @@ AI-powered phishing detection, URL intelligence, zero-day analysis,
 threat intelligence, and SOC-oriented security response.
 </p>
 
+<p align="center">
+  <a href="https://phisguard-z.onrender.com/">
+    <strong>🚀 Live Demo</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/TECH-SUGATA/phisguard-z">
+    <strong>💻 GitHub Repository</strong>
+  </a>
+</p>
+
+---
 Autonomous Zero-Day & Phishing Interceptor
 
 <p align="center">

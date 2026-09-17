@@ -1,16 +1,7 @@
-# 🛡️ PHISGUARD-Z
+🛡️ PHISGUARD-Z
 
 <p align="center">
-  <img src="./assets/phisguard-banner.png" width="100%" alt="PHISGUARD-Z Banner">
-</p>
-
-<p align="center">
-  <a href="https://phisguard-z.onrender.com/">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-00C853?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo">
-  </a>
-  <a href="https://github.com/TECH-SUGATA/phisguard-z">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
-  </a>
+  <img src="./assets/phisguard-banner.png" width="100%" alt="PHISGUARD-Z — AI-Powered Phishing Detection & Cyber Awareness Platform">
 </p>
 
 <p align="center">
@@ -18,773 +9,938 @@
 </p>
 
 <p align="center">
-  AI-powered phishing detection, URL intelligence, zero-day analysis, threat intelligence, and SOC-oriented security response.
+  AI-assisted phishing detection, suspicious URL inspection, zero-day-style anomaly analysis, threat learning, and SOC-oriented security workflows.
 </p>
 
----
+<p align="center">
+  <a href="https://phisguard-z.vercel.app/">
+    <img src="https://img.shields.io/badge/Frontend-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Frontend Live">
+  </a>
+  <a href="https://phisguard-z.onrender.com/">
+    <img src="https://img.shields.io/badge/Backend-Live-00C853?style=for-the-badge&logo=render&logoColor=white" alt="Backend Live">
+  </a>
+  <a href="https://github.com/TECH-SUGATA/phisguard-z">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
 
-## 🚀 Live Project
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-5B5BEA?style=flat-square" alt="Version 1.0.0">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19">
+  <img src="https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 6">
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5">
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Backend">
+  <img src="https://img.shields.io/badge/Gemini-AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI">
+</p>
 
-| Resource | Link |
-|---|---|
-| 🌐 **Live Application** | [https://phisguard-z.onrender.com/](https://phisguard-z.onrender.com/) |
-| 💻 **GitHub Repository** | [https://github.com/TECH-SUGATA/phisguard-z](https://github.com/TECH-SUGATA/phisguard-z) |
+🌐 Live Deployment
 
----
+Component
 
-# 🔥 Product Overview
+URL
 
-PHISGUARD-Z presents a unified security workspace for investigating suspicious URLs, phishing activity, email threats, zero-day-style anomalies, obfuscated payloads, and learned threat patterns.
+🚀 Frontend — Vercel
 
-The live interface is organized around security operations modules such as:
+https://phisguard-z.vercel.app/
 
-- Dashboard
-- Email & BEC
-- Zero-Day Sandbox
-- Popup Protection
-- Simulator
-- Learner
-- Vault
-- URL Inspection
-- Audit Reports
-- Security Telemetry
-- Threat Learning
-- Forensic Investigation
+🧠 Backend / API — Render
 
-The application uses a security-first workflow:
+https://phisguard-z.onrender.com/
 
-```text
-                    ┌──────────────────────────┐
-                    │   URL / Email / Payload  │
-                    └─────────────┬────────────┘
-                                  │
-                                  ▼
-                    ┌──────────────────────────┐
-                    │  Security Heuristics     │
-                    │  & Indicator Analysis    │
-                    └─────────────┬────────────┘
-                                  │
-                 ┌────────────────┼────────────────┐
-                 ▼                ▼                ▼
-          URL Intelligence   Phishing/BEC     Zero-Day /
-          & Domain Signals     Analysis      Payload Analysis
-                 │                │                │
-                 └────────────────┼────────────────┘
-                                  ▼
-                    ┌──────────────────────────┐
-                    │  AI-Assisted Analysis    │
-                    │   & Threat Correlation   │
-                    └─────────────┬────────────┘
-                                  │
-                                  ▼
-                    ┌──────────────────────────┐
-                    │ Risk / Threat Assessment │
-                    └─────────────┬────────────┘
-                                  │
-                  ┌───────────────┼────────────────┐
-                  ▼               ▼                ▼
-             Quarantine      Learn Pattern     SOC Response
-```
+💻 GitHub Repository
 
----
+https://github.com/TECH-SUGATA/phisguard-z
 
-# ✨ Platform Highlights
+Deployment architecture: the React/Vite frontend is deployed on Vercel, while the Express/Node.js security backend is deployed on Render.
 
-## 📊 Security Operations Dashboard
+📖 Table of Contents
 
-The main dashboard provides a high-level security view with live-style telemetry cards for:
+Overview
 
-| Metric | Purpose |
-|---|---|
-| 🌐 **Links Inspected** | Tracks inspected web links |
-| 🛡️ **Threats Neutralized** | Displays intercepted threat activity |
-| ⚡ **Zero-Day Attacks** | Highlights detected zero-day-style anomalies |
-| 🧠 **Learned Patterns** | Shows stored/adaptive threat patterns |
+Core Capabilities
 
-The interface also exposes the current analysis-engine state and operational controls from the dashboard.
+Security Operations Dashboard
 
----
+Deep Link & Zero-Day Neural Inspection Lab
 
-# 🔗 Deep Link & Zero-Day Neural Inspection Lab
+Threat Analysis Workflow
 
-The central inspection workspace allows analysts to paste a URL or suspicious hyperlink for deeper inspection.
+Security Modules
 
-The interface provides a dedicated scan workflow around:
+Risk & Threat Telemetry
 
-- Suspicious URL inspection
-- Shannon entropy-oriented analysis
-- Punycode decoding
-- Homoglyph-oriented investigation
-- Zero-day anomaly analysis
-- AI-assisted forensic analysis
-- Threat classification
-- Security response actions
+AI Security Engine
 
-Example input:
+Architecture
 
-```text
-https://example.com/login
-```
+Technology Stack
 
-Example flow:
+Project Structure
 
-```text
+Local Development
+
+Production Build
+
+API Surface
+
+Deployment
+
+Security Considerations
+
+Roadmap
+
+Capability Matrix
+
+Release
+
+Author
+
+License
+
+🔥 Overview
+
+PHISGUARD-Z is a cybersecurity research and demonstration platform designed around phishing analysis, suspicious-link inspection, zero-day-style anomaly detection, email/BEC investigation, threat-pattern learning, and SOC-oriented response workflows.
+
+The interface combines a security dashboard with dedicated modules for investigating suspicious inputs and presenting analysis results in a structured security-operations workflow.
+
+Core security workflow
+
+             ┌─────────────────────────────┐
+             │ URL / Email / Suspicious    │
+             │ Input / Payload Scenario    │
+             └──────────────┬──────────────┘
+                            │
+                            ▼
+             ┌─────────────────────────────┐
+             │ Normalization & Heuristics  │
+             └──────────────┬──────────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+   URL / Domain       Email & BEC       Payload / Anomaly
+     Analysis           Analysis            Analysis
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            ▼
+             ┌─────────────────────────────┐
+             │ AI-Assisted Analysis        │
+             │ & Threat Correlation        │
+             └──────────────┬──────────────┘
+                            │
+                            ▼
+             ┌─────────────────────────────┐
+             │ Risk / Threat Assessment    │
+             └──────────────┬──────────────┘
+                            │
+                ┌───────────┼───────────┐
+                ▼           ▼           ▼
+           Quarantine   Learn Pattern  Forensics
+
+✨ Core Capabilities
+
+🔗 Deep URL & Suspicious-Link Inspection
+
+URL normalization and lexical inspection
+
+Domain and hostname analysis
+
+Shannon entropy analysis
+
+Punycode / IDN inspection
+
+Homoglyph-oriented spoofing checks
+
+Suspicious-pattern scoring
+
+AI-assisted threat classification
+
+📧 Email & BEC Analysis
+
+Suspicious-message investigation
+
+Business-email-compromise style analysis
+
+Credential-harvesting indicators
+
+Suspicious link detection
+
+Social-engineering signals
+
+Threat severity and response workflow
+
+⚡ Zero-Day-Style Anomaly Analysis
+
+Novel/anomalous indicator investigation
+
+Obfuscation-oriented analysis
+
+Evasion signal inspection
+
+AI-assisted forensic interpretation
+
+Threat-pattern learning workflow
+
+🧠 Threat Learning
+
+Detection pattern extraction
+
+Learned threat-pattern storage in the running server
+
+Reuse of observed indicators in future analysis
+
+Security intelligence workflow visualization
+
+🚨 SOC-Oriented Response
+
+Quarantine workflow
+
+Pattern-learning workflow
+
+Forensic investigation modal
+
+Security alert dispatch workflow
+
+Audit-report workflow
+
+📊 Security Operations Dashboard
+
+The dashboard provides a SOC-style command center with high-level security telemetry and investigation controls.
+
+Dashboard indicators
+
+Indicator
+
+Purpose
+
+🌐 Links Inspected
+
+Tracks suspicious links processed by the platform
+
+🛡️ Threats Neutralized
+
+Displays intercepted/contained threat activity
+
+⚡ Zero-Day Attacks
+
+Highlights zero-day-style anomaly findings
+
+🧠 Learned Patterns
+
+Represents reusable threat-pattern intelligence
+
+The dashboard also exposes:
+
+Deep inspection controls
+
+URL test presets
+
+Threat-result cards
+
+Risk indicators
+
+AI engine status
+
+Extension-style threat notifications
+
+Audit and response actions
+
+🔗 Deep Link & Zero-Day Neural Inspection Lab
+
+The central investigation interface allows an analyst to submit a URL or suspicious hyperlink for deeper analysis.
+
+Analysis flow
+
 Paste URL
-    ↓
-Execute Deep Scan
-    ↓
-Normalize & Inspect
-    ↓
-Analyze Domain / URL Signals
-    ↓
-Check Entropy / Encoding / Spoofing
-    ↓
-AI-Assisted Threat Analysis
-    ↓
-Risk & Threat Assessment
-    ↓
-Quarantine / Learn / Forensic Review
-```
+   ↓
+Deep Inspection
+   ↓
+URL + Domain Normalization
+   ↓
+Lexical / Entropy Analysis
+   ↓
+Punycode / Homoglyph Analysis
+   ↓
+Zero-Day-Style Anomaly Analysis
+   ↓
+AI-Assisted Forensics
+   ↓
+Risk & Threat Classification
+   ↓
+Response / Investigation Actions
 
----
+Security signals exposed by the interface
 
-# 🧪 Security Test Presets
+Total Risk Score
 
-The interface provides quick test presets for common security-analysis scenarios, including:
+Zero-Day Anomaly
 
-```text
+Domain Entropy
+
+Punycode / Homoglyph indicators
+
+Engine classification
+
+Threat category
+
+Investigation context
+
+🧪 Security Test Presets
+
+The current interface includes demonstration presets such as:
+
 Microsoft (Zero-Day)
 PayPal (Homograph)
 Chase (Credential)
 MetaMask (Zero-Day)
 DocuSign (OAuth)
-```
 
-These presets are intended to make security-analysis workflows easier to demonstrate and test.
+These presets are intended for demonstrations, UI testing, and security-analysis workflows.
 
----
+🚨 Threat Detection Result
 
-# 🚨 Threat Detection Result
+The dashboard presents structured threat findings, for example:
 
-The dashboard presents detailed threat cards for suspicious findings.
-
-A visible example includes:
-
-```text
 CRITICAL ZERO-DAY
 Engine: zero_day_neural_net
 
 Credential Harvester
-```
 
-The interface exposes response actions such as:
+Available response actions include:
 
-```text
-┌───────────────┐
-│  Quarantine   │
-└───────────────┘
+┌─────────────────┐
+│   Quarantine    │
+└─────────────────┘
 
-┌───────────────┐
-│ Learn Pattern │
-└───────────────┘
+┌─────────────────┐
+│  Learn Pattern  │
+└─────────────────┘
 
-┌────────────────┐
-│ Forensic Modal │
-└────────────────┘
-```
+┌─────────────────┐
+│ Forensic Review │
+└─────────────────┘
 
----
+AI and heuristic detections should be treated as analysis signals and independently validated before high-impact security decisions.
 
-# 📈 Threat & Risk Telemetry
+📈 Risk & Threat Telemetry
 
-The inspection result presents security-oriented indicators such as:
+The inspection experience exposes security-oriented measurements such as:
 
-```text
 Total Risk Score
 Zero-Day Anomaly
 Domain Entropy
-Punycode / Homoglyph Indicators
-```
+Punycode / Homoglyph
+Threat Engine
+Threat Classification
 
-Example dashboard-style values shown by the application can include:
+Example values displayed in the current UI include:
 
-```text
 Risk Score        → 98 / 100
 Zero-Day Anomaly  → 92%
 Domain Entropy    → 4.055 bits
-```
 
-These displayed values are part of the application's current threat-analysis interface and should be interpreted as analysis signals rather than definitive proof of malicious activity.
+These values are presented by the application as part of the analysis interface and are not, by themselves, proof that a URL or payload is malicious.
 
----
+🧠 AI Security Engine
 
-# 🧠 AI Security Engine
+PHISGUARD-Z uses Google's Gemini SDK on the server side for AI-assisted analysis.
 
-The current interface displays an active Gemini-powered analysis engine for deeper threat investigation.
+The backend also includes a fallback model pool so that an unavailable or rate-limited model can be skipped and the analysis can continue with another configured candidate.
 
-```text
-┌────────────────────────────────────────────┐
-│ Gemini Neural Engine                       │
-│ AI-assisted deep threat analysis           │
-└────────────────────────────────────────────┘
-```
+High-level AI workflow
 
-The AI layer complements deterministic security heuristics by helping classify suspicious patterns and organize investigation results.
+Security Input
+     ↓
+Heuristic Signals
+     ↓
+Gemini-Assisted Analysis
+     ↓
+Structured Threat Findings
+     ↓
+UI + Forensic Workflow
 
----
+The Gemini credential is a server-side secret and should remain on the backend deployment.
 
-# 📧 Email & BEC
+🧩 Security Modules
 
-The **Email & BEC** module provides a dedicated workspace for investigating suspicious email activity and business-email-compromise style threats.
+📧 Email & BEC
 
-The security workflow can be used to evaluate:
+Dedicated analysis workspace for suspicious messages, phishing indicators, social-engineering patterns, credential theft signals, and response actions.
 
-- Suspicious messages
-- Social-engineering signals
-- Credential-harvesting indicators
-- Suspicious links
-- Urgency/manipulation patterns
-- Threat severity
-- Recommended response actions
+🧪 Zero-Day Sandbox
 
----
+Investigation-oriented interface for anomalous payload behavior, obfuscation, evasion indicators, and forensic results.
 
-# 🧪 Zero-Day Sandbox
+🛡️ Popup Protection
 
-The **Zero-Day Sandbox** area is designed for deeper investigation of suspicious payload and anomalous behavior.
+User-facing browser/extension-style threat notifications, including blocked-threat feedback.
 
-The platform exposes workflows for:
+🌐 URL Inspection
 
-- Novel payload indicators
-- Obfuscation analysis
-- Suspicious execution patterns
-- Anti-analysis signals
-- Forensic investigation
-- Threat-pattern learning
+Direct investigation workflow covering URL normalization, lexical signals, entropy, spoofing indicators, Punycode, and threat scoring.
 
----
+📑 Audit Reports
 
-# 🛡️ Popup Protection
+Structured representation of threat findings and investigation context for security reporting.
 
-The **Popup** module supports browser-style protection workflows for detecting and blocking suspicious activity.
+🧠 Learner
 
-The visible interface includes threat-blocking notifications such as:
+A pattern-learning workflow that turns observed indicators into reusable threat intelligence within the running application.
 
-```text
-PHISGUARD EXTENSION
-THREAT BLOCKED
-```
+🔐 Vault
 
-This provides a user-facing security feedback mechanism when a suspicious event is intercepted.
+Dedicated UI area for protected security and investigation context.
 
----
+🎮 Simulator
 
-# 🌐 URL Inspection
+Controlled interface for demonstrating threat scenarios and security-response workflows.
 
-The **Inspect URL** workflow provides direct access to suspicious-link investigation.
+🔎 Forensic Investigation
 
-A typical analysis pipeline is:
+Detailed result views covering classification, risk, anomaly signals, engine output, and response controls.
 
-```text
-URL
- ↓
-URL Normalization
- ↓
-Hostname / Domain Analysis
- ↓
-Lexical Inspection
- ↓
-Spoofing / Homoglyph Checks
- ↓
-Punycode Analysis
- ↓
-Entropy Analysis
- ↓
-Threat Scoring
- ↓
-AI-Assisted Analysis
- ↓
-Security Decision Support
-```
+🏗️ Architecture
 
----
+Production deployment architecture
 
-# 📑 Audit Reports
+                         INTERNET
+                            │
+                            ▼
+              ┌───────────────────────────┐
+              │   Vercel Production UI    │
+              │   React + Vite + TS       │
+              │                           │
+              │ phisguard-z.vercel.app   │
+              └─────────────┬─────────────┘
+                            │
+                            │ HTTPS API
+                            ▼
+              ┌───────────────────────────┐
+              │     Render Backend        │
+              │   Node + Express + TS     │
+              │                           │
+              │ phisguard-z.onrender.com │
+              └─────────────┬─────────────┘
+                            │
+                            ▼
+              ┌───────────────────────────┐
+              │      Gemini AI API        │
+              │   Server-side analysis    │
+              └───────────────────────────┘
 
-The **Audit Report** feature provides a dedicated place for reviewing security-analysis findings and investigation results.
+Internal security-analysis architecture
 
-A report can be used to organize:
-
-- Target URL
-- Threat category
-- Risk indicators
-- Analysis findings
-- Recommended response
-- Investigation context
-
----
-
-# 🧠 Learner
-
-The **Learner** module is designed around adaptive threat-pattern learning.
-
-```text
-New Observation
-      ↓
-Threat Analysis
-      ↓
-Indicator Extraction
-      ↓
-Pattern Generation
-      ↓
-Pattern Learning
-      ↓
-Future Analysis
-```
-
-This allows the platform to build reusable security intelligence from observed patterns.
-
----
-
-# 🔐 Vault
-
-The **Vault** area provides a dedicated location for security-related information and protected investigation context.
-
-It is designed as part of the wider security-operations workflow.
-
----
-
-# 🎮 Simulator
-
-The **Simulator** module provides a controlled interface for demonstrating security scenarios and investigation workflows.
-
-It can be used to showcase:
-
-- Threat scenarios
-- Detection flows
-- Analysis behavior
-- Response workflows
-- Security demonstrations
-
----
-
-# 🧬 Forensic Investigation
-
-PHISGUARD-Z includes a forensic-oriented workflow for deeper inspection of suspicious findings.
-
-The inspection result can expose evidence such as:
-
-- Threat classification
-- Risk score
-- Zero-day anomaly level
-- Domain entropy
-- Punycode / homoglyph indicators
-- Engine classification
-- Threat URL
-- Response controls
-
----
-
-# 🧠 Security Analysis Architecture
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                     PHISGUARD-Z                         │
-│        Autonomous Zero-Day & Phishing Interceptor       │
-└──────────────────────────┬──────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                    PHISGUARD-Z                        │
+└──────────────────────────┬───────────────────────────┘
                            │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-   ┌──────────────┐ ┌───────────────┐ ┌───────────────┐
-   │ URL Security │ │ Email & BEC   │ │ Zero-Day      │
-   │ Inspection   │ │ Analysis      │ │ Sandbox       │
-   └──────┬───────┘ └──────┬────────┘ └──────┬────────┘
-          │                │                 │
-          └────────────────┼─────────────────┘
+        ┌──────────────────┼──────────────────┐
+        ▼                  ▼                  ▼
+   URL Inspection      Email / BEC      Payload / Anomaly
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           ▼
+                 Security Heuristics
                            │
                            ▼
-                ┌──────────────────────┐
-                │ Security Heuristics  │
-                └──────────┬───────────┘
+                  AI-Assisted Analysis
                            │
                            ▼
-                ┌──────────────────────┐
-                │ AI-Assisted Analysis │
-                └──────────┬───────────┘
+                  Threat Correlation
                            │
                            ▼
-                ┌──────────────────────┐
-                │ Threat Correlation   │
-                │ & Risk Assessment    │
-                └──────────┬───────────┘
+                    Risk Assessment
                            │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-     Quarantine       Learn Pattern    Forensic Review
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                  ┌──────────────────┐
-                  │ SOC Response     │
-                  └──────────────────┘
-```
+         ┌─────────────────┼─────────────────┐
+         ▼                 ▼                 ▼
+     Quarantine       Learn Pattern      Forensics
 
----
+🛠️ Technology Stack
 
-# 🛠️ Technology Stack
+Frontend
 
-## Frontend
+React 19
 
-- React
-- Vite
-- TypeScript
-- Tailwind CSS
-- Lucide React
-- Motion
-- D3
+TypeScript
 
-## Backend
+Vite 6
 
-- Node.js
-- Express
-- TypeScript
-- TSX
-- esbuild
-- dotenv
+Tailwind CSS 4 / Tailwind Vite plugin
 
-## AI
+Lucide React
 
-- Google Gemini
-- `@google/genai`
+Motion
 
-## Security Analysis
+D3
 
-- URL/domain heuristics
-- Punycode analysis
-- Homoglyph detection
-- Entropy analysis
-- Lexical anomaly analysis
-- Obfuscation checks
-- Threat scoring
-- Threat-pattern learning
-- SOC-style response workflows
+Backend
 
-## Deployment
+Node.js
 
-- GitHub
-- Render
+Express 4
 
----
+TypeScript
 
-# 📂 Project Structure
+TSX
 
-```text
+esbuild
+
+dotenv
+
+AI
+
+Google Gemini
+
+@google/genai
+
+Additional Libraries
+
+jsPDF
+
+JSZip
+
+Deployment
+
+GitHub
+
+Vercel — frontend
+
+Render — backend
+
+📂 Project Structure
+
 PHISGUARD-Z/
 │
+├── assets/
+│   └── phisguard-banner.png
+│
 ├── src/
-│   └── React frontend
+│   ├── components/
+│   │   ├── AdvancedSecurityView.tsx
+│   │   ├── AuditReportModal.tsx
+│   │   ├── BrowserSimulator.tsx
+│   │   ├── DashboardView.tsx
+│   │   ├── EmailSecurityView.tsx
+│   │   ├── ExtensionPopup.tsx
+│   │   ├── FloatingExtensionDock.tsx
+│   │   ├── InstallExtensionModal.tsx
+│   │   ├── Navbar.tsx
+│   │   ├── NeuralLearner.tsx
+│   │   ├── QuarantineVault.tsx
+│   │   ├── ThreatAlertModal.tsx
+│   │   └── ThreatHeatmap.tsx
+│   │
+│   ├── data/
+│   │   ├── emailThreatPresets.ts
+│   │   └── sampleThreats.ts
+│   │
+│   ├── utils/
+│   │   ├── audio.ts
+│   │   ├── extensionPackager.ts
+│   │   ├── reportExporter.ts
+│   │   └── ...
+│   │
+│   ├── App.tsx
+│   ├── index.css
+│   ├── main.tsx
+│   └── types.ts
 │
-├── server.ts
-│   └── Express + AI/security backend
-│
-├── index.html
-├── package.json
-├── vite.config.ts
-├── tsconfig.json
-├── metadata.json
 ├── .env.example
 ├── .gitignore
-├── bun.lock
+├── index.html
+├── metadata.json
+├── package.json
+├── server.ts
+├── tsconfig.json
+├── vite.config.ts
 └── README.md
-```
 
----
+⚙️ Local Development
 
-# ⚙️ Local Setup
+1. Clone the repository
 
-## 1. Clone
-
-```bash
 git clone https://github.com/TECH-SUGATA/phisguard-z.git
 cd phisguard-z
-```
 
-## 2. Install Dependencies
+2. Install dependencies
 
-```bash
 npm install
-```
 
-## 3. Configure Environment Variables
+3. Configure environment variables
 
-Create a local `.env` file:
+Create a local .env file in the project root:
 
-```env
 GEMINI_API_KEY=your_gemini_api_key
-```
 
-> ⚠️ Never commit real API credentials to GitHub.
+The checked-in .env.example also contains APP_URL because the project originated from an AI Studio deployment template. The current server code reads GEMINI_API_KEY for Gemini access.
 
-## 4. Start Development Server
+Never commit secrets
 
-```bash
+.env
+.env.local
+.env.production
+
+should not contain credentials that are committed to GitHub.
+
+4. Start development
+
 npm run dev
-```
 
----
+The development script starts server.ts, which runs the Express API and Vite development middleware together.
 
-# 🏗️ Production Build
+🏭 Production Build
 
-```bash
+Build the frontend and bundle the backend:
+
 npm run build
-```
 
-Then:
+Start the production server:
 
-```bash
 npm start
-```
 
----
+Other available scripts:
 
-# 🔌 API Surface
+npm run preview
+npm run lint
+npm run clean
 
-| Method | Endpoint | Purpose |
-|---|---|---|
-| `GET` | `/api/health` | Service health |
-| `GET` | `/api/threat-intel` | Threat intelligence |
-| `GET` | `/api/threat-intel/sync` | Threat-pattern synchronization |
-| `POST` | `/api/background-scan/batch` | Batch URL analysis |
-| `POST` | `/api/scan` | URL inspection |
-| `POST` | `/api/learn-pattern` | Learn/store threat pattern |
-| `POST` | `/api/scan-email` | Email / BEC analysis |
-| `POST` | `/api/dispatch-soc-alert` | SOC alert workflow |
-| `POST` | `/api/detonate-payload` | Payload / obfuscation inspection |
+🔌 API Surface
 
----
+The current Express server defines these API routes:
 
-# 🧪 Example API Request
+Method
 
-```http
+Endpoint
+
+Purpose
+
+GET
+
+/api/health
+
+Backend health/status check
+
+GET
+
+/api/threat-intel
+
+Threat-intelligence data
+
+GET
+
+/api/threat-intel/sync
+
+Threat-intelligence synchronization
+
+POST
+
+/api/background-scan/batch
+
+Batch background URL analysis
+
+POST
+
+/api/scan
+
+Deep URL/security inspection
+
+POST
+
+/api/learn-pattern
+
+Store/learn a threat pattern
+
+POST
+
+/api/scan-email
+
+Email/BEC analysis
+
+POST
+
+/api/dispatch-soc-alert
+
+SOC alert dispatch workflow
+
+POST
+
+/api/detonate-payload
+
+Payload/obfuscation analysis workflow
+
+Example: URL scan
+
 POST /api/scan
 Content-Type: application/json
-```
 
-```json
 {
   "url": "https://example.com/login",
   "fastMode": false
 }
-```
 
----
+☁️ Deployment
 
-# ☁️ Deployment
+Frontend — Vercel
 
-## Render
+Production frontend:
 
-Live production deployment:
+https://phisguard-z.vercel.app/
 
-### 🌐 https://phisguard-z.onrender.com/
+Typical Vite deployment settings for this repository are:
 
-Typical build command:
+Framework Preset: Vite
+Root Directory: ./
+Build Command: npm run build
+Output Directory: dist
+Install Command: npm install
 
-```text
-npm install && npm run build
-```
+Backend — Render
 
-Typical start command:
+Production backend:
 
-```text
-npm start
-```
+https://phisguard-z.onrender.com/
 
-Configure secrets such as:
+Required backend secret:
 
-```text
 GEMINI_API_KEY=your_gemini_api_key
-```
 
-inside the Render environment configuration.
+Split-host deployment note
 
----
+The current React source contains API calls that use relative /api/... paths. When the frontend and backend are hosted on different domains, those requests must be routed to the Render backend (for example through a Vercel rewrite/proxy) or the frontend API base must be changed to use the Render API origin.
 
-# 🔄 Development & Deployment Workflow
+A future client-side configuration can use a public Vite variable such as:
 
-```text
-┌──────────────────────────────┐
-│ Google AI Studio / Local Dev │
-└──────────────┬───────────────┘
-               │
-               ▼
-       ┌───────────────┐
-       │    GitHub     │
-       │ PHISGUARD-Z   │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │    Render     │
-       │  Deployment   │
-       └───────┬───────┘
-               │
-               ▼
-       ┌────────────────────┐
-       │ PHISGUARD-Z LIVE   │
-       └────────────────────┘
-```
+VITE_API_URL=https://phisguard-z.onrender.com
 
----
+with frontend requests built from that value.
 
-# 🔐 Security Considerations
+Never place GEMINI_API_KEY in a VITE_* variable. Vite client variables are bundled into browser code; Gemini credentials belong on the server.
 
-PHISGUARD-Z is intended as a **defensive cybersecurity research and analysis platform**.
+🔐 Security Considerations
 
-Important deployment practices:
+PHISGUARD-Z is intended as a defensive cybersecurity research, education, and analysis platform.
 
-- Keep API keys outside source control.
-- Validate and sanitize untrusted input.
-- Do not execute unknown payloads directly on production infrastructure.
-- Treat AI output as analysis signals.
-- Validate critical findings independently.
-- Add authentication before exposing sensitive APIs.
-- Add authorization and role-based access control.
-- Add rate limiting and abuse protection.
-- Add persistent audit logs.
-- Use isolated infrastructure for dynamic payload analysis.
-- Add production monitoring and observability.
+Recommended production controls include:
 
----
+Keep API secrets server-side.
 
-# 📈 Roadmap
+Validate and sanitize all untrusted input.
 
-- [ ] Persistent threat database
-- [ ] User authentication
-- [ ] Role-based access control
-- [ ] Rate limiting
-- [ ] Threat-intelligence integrations
-- [ ] Domain reputation integrations
-- [ ] Real-time notifications
-- [ ] SOC incident management
-- [ ] Container-isolated dynamic sandbox
-- [ ] Historical threat analytics
-- [ ] Case management
-- [ ] Security audit logging
-- [ ] CI/CD security checks
-- [ ] Advanced threat visualization
-- [ ] Enterprise deployment support
+Add authentication before exposing sensitive security APIs.
 
----
+Add authorization and role-based access control.
 
-# 📊 Platform Capability Matrix
+Add rate limiting and abuse protection.
 
-| Capability | Status |
-|---|---|
-| Dashboard | ✅ |
-| URL Inspection | ✅ |
-| Email & BEC | ✅ |
-| Zero-Day Sandbox | ✅ |
-| Popup Protection | ✅ |
-| Simulator | ✅ |
-| Learner | ✅ |
-| Vault | ✅ |
-| Audit Reports | ✅ |
-| Threat Scoring | ✅ |
-| Domain Entropy | ✅ |
-| Punycode / Homoglyph Analysis | ✅ |
-| AI-Assisted Analysis | ✅ |
-| Threat Pattern Learning | ✅ |
-| Quarantine Workflow | ✅ |
-| Forensic Investigation | ✅ |
-| Persistent Database | 🚧 |
-| Authentication | 🚧 |
-| Enterprise Dynamic Sandbox | 🚧 |
+Use isolated infrastructure for dynamic payload analysis.
 
----
+Add persistent audit logging.
 
-# 🎯 Security Workflow
+Add production monitoring and alerting.
 
-```text
-INSPECT
+Validate AI-generated findings independently.
+
+Treat heuristic/AI risk scores as decision-support signals rather than absolute truth.
+
+📈 Roadmap
+
+Persistent threat database
+
+Authentication
+
+Role-based access control
+
+API rate limiting
+
+Domain reputation integrations
+
+External threat-intelligence integrations
+
+Real-time notifications
+
+SOC incident management
+
+Container-isolated dynamic sandbox
+
+Historical threat analytics
+
+Case management
+
+Persistent security audit logs
+
+CI/CD security checks
+
+Advanced threat visualization
+
+Enterprise deployment support
+
+📊 Capability Matrix
+
+Capability
+
+Current State
+
+Security Dashboard
+
+✅
+
+URL Inspection
+
+✅
+
+Email & BEC
+
+✅
+
+Zero-Day-Style Analysis
+
+✅
+
+Popup Protection UI
+
+✅
+
+Simulator
+
+✅
+
+Learner
+
+✅
+
+Vault
+
+✅
+
+Audit Reports
+
+✅
+
+Threat Scoring
+
+✅
+
+Shannon Entropy Analysis
+
+✅
+
+Punycode / Homoglyph Analysis
+
+✅
+
+AI-Assisted Analysis
+
+✅
+
+Threat Pattern Learning
+
+✅
+
+Quarantine Workflow
+
+✅
+
+Forensic Investigation
+
+✅
+
+Persistent External Database
+
+🚧
+
+Authentication / RBAC
+
+🚧
+
+Enterprise Dynamic Sandbox
+
+🚧
+
+🔄 Development Workflow
+
+Build / Modify
+      ↓
+GitHub main branch
+      ↓
+┌───────────────┬────────────────┐
+│               │                │
+▼               ▼                ▼
+Vercel        Render          Local
+Frontend      Backend         Testing
+
+For production releases:
+
+Code Change
    ↓
-ANALYZE
+Test Locally
    ↓
-CLASSIFY
+Commit
    ↓
-INVESTIGATE
+Push to GitHub
    ↓
-CONTAIN
+Vercel / Render Deployment
    ↓
-LEARN
-```
+Production Verification
 
-### Core Principle
+🏷️ Release
 
-> **Detect → Analyze → Investigate → Contain → Learn**
+PHISGUARD-Z v1.0.0
 
----
+Initial public release of the PHISGUARD-Z security-analysis platform.
 
-# 👨‍💻 Author
+Included in v1.0.0
 
-## Sugata Nayak
+Security dashboard
 
-**Computer Science & Engineering — Artificial Intelligence**
+Deep URL inspection
 
-### GitHub
+Email & BEC analysis
 
-[https://github.com/TECH-SUGATA](https://github.com/TECH-SUGATA)
+Zero-day-style anomaly analysis
 
-### Repository
+AI-assisted threat investigation
 
-[https://github.com/TECH-SUGATA/phisguard-z](https://github.com/TECH-SUGATA/phisguard-z)
+Entropy and spoofing analysis
 
----
+Threat-pattern learning workflow
 
-# 🌐 Project Links
+Quarantine workflow
 
-### 🚀 Live Demo
+Forensic investigation workflow
 
-[https://phisguard-z.onrender.com/](https://phisguard-z.onrender.com/)
+Audit-report workflow
 
-### 💻 GitHub Repository
+Simulator and extension-style UI components
 
-[https://github.com/TECH-SUGATA/phisguard-z](https://github.com/TECH-SUGATA/phisguard-z)
+👨‍💻 Author
 
----
+Sugata Nayak
 
-# 📄 License
+B.Tech — Computer Science & Engineering (Artificial Intelligence)
 
-No license file is currently included in the repository.
+GitHub
 
-Add an explicit open-source license before distributing the project under standard open-source terms.
+https://github.com/TECH-SUGATA
 
----
+Repository
 
-# ⭐ Support
+https://github.com/TECH-SUGATA/phisguard-z
 
-If you find **PHISGUARD-Z** useful for:
+📄 License
 
-- Cybersecurity research
-- AI experimentation
-- Security education
-- Phishing analysis
-- Threat detection
-- Portfolio development
-- Hackathon demonstrations
+No explicit license file is currently included in the project repository.
 
-consider giving the repository a ⭐ on GitHub.
+Add a LICENSE file before distributing PHISGUARD-Z under an open-source license.
 
----
+⭐ Support the Project
+
+If PHISGUARD-Z is useful for cybersecurity research, AI experimentation, security education, portfolio work, or hackathon demonstrations, consider starring the repository:
+
+⭐ https://github.com/TECH-SUGATA/phisguard-z
 
 <p align="center">
-
-### 🛡️ PHISGUARD-Z
-
-<strong>Detect. Analyze. Investigate. Contain. Learn.</strong>
-
-<br />
-
-AI-Powered Phishing & Zero-Day Threat Analysis Platform
-
+  <strong>🛡️ PHISGUARD-Z</strong>
+  <br />
+  Detect • Analyze • Investigate • Contain • Learn
+  <br /><br />
+  <em>AI-Assisted Phishing &amp; Zero-Day Threat Analysis Platform</em>
 </p>

@@ -1,4 +1,28 @@
-🛡️ PHISGUARD-Z
+<p align="center">
+
+[![VERSION](https://img.shields.io/badge/VERSION-1.0.0-00D9FF?style=flat-square)](https://github.com/TECH-SUGATA/phisguard-z)
+[![STATUS](https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square)](https://phisguard-z.onrender.com/)
+[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-9C27B0?style=flat-square)](LICENSE)
+[![NODE.JS](https://img.shields.io/badge/NODE.JS-18%2B-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![AI](https://img.shields.io/badge/AI-GEMINI-4285F4?style=flat-square)](https://ai.google.dev/)
+[![DEPLOYED](https://img.shields.io/badge/DEPLOYED-RENDER-46E3B7?style=flat-square)](https://phisguard-z.onrender.com/)
+
+</p>
+
+<p align="center">
+  <img src="YOUR_PHISGUARD_BANNER_IMAGE_URL" width="900" alt="PHISGUARD-Z Banner">
+</p>
+
+<h1 align="center">🛡️ PHISGUARD-Z</h1>
+
+<h3 align="center">
+Autonomous Zero-Day & Phishing Interceptor
+</h3>
+
+<p align="center">
+AI-powered phishing detection, URL intelligence, zero-day analysis,
+threat intelligence, and SOC-oriented security response.
+</p>
 
 Autonomous Zero-Day & Phishing Interceptor
 

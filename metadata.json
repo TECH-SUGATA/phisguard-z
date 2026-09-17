@@ -1,0 +1,6 @@
+{
+  "name": "PHISGUARD-Z",
+  "description": "Enterprise-grade real-time phishing and zero-day threat detection browser security extension with predictive analytics and autonomous ML pattern learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
